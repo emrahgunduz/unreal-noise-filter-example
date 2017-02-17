@@ -1,0 +1,16 @@
+/.vs
+/Binaries
+/Export
+/Intermediate
+/LocalDerivedDataCache
+/PersistentDownloadDir
+/Saved
+/Staging
+/Build
+*.sdf
+*.sln
+*.opensdf
+*.db
+*.opendb
+*.log
+.DS_Store
