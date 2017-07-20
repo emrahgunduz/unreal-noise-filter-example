@@ -1,7 +1,7 @@
 # Noise filtering for Unreal
 
-This is a simple test project with created for low and high pass data stream filtering.
-In this project, filter is used to smooth mouse movements to decide if mouse vector change on x axis.
+This is a simple test project, created for low and high pass data stream filtering.
+In this project, filter is used to smooth mouse movements to decide if mouse vector changes on x axis.
 
 ![alt text](https://github.com/emrahgunduz/unreal-noise-filter-example/blob/master/ForReadme/c.gif?raw=true "Example project")
 
